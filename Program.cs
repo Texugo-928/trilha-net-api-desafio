@@ -2,6 +2,9 @@ using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 using TrilhaApiDesafio.Context;
 
+//TODO: Criar as Migrations
+//TODO: Testar no VSCode...
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
